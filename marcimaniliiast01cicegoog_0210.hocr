@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcimaniliiast01cicegoog_0210.png"; bbox 0 0 3375 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 421 1489 1213 1999">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 421 1489 1213 1999">
+     <span class='ocr_line' id='line_1_1' title="bbox 550 1489 1087 1692; baseline 0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 550 1489 1087 1692; x_wconf 77' lang='lat' dir='ltr'><strong>ARATI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 421 1861 1213 1999; baseline 0.006 -5"><span class='ocrx_word' id='word_1_2' title='bbox 421 1861 1213 1999; x_wconf 69' lang='lat' dir='ltr'><strong>PHOENOMENA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 329 2156 1308 2522">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 329 2156 1308 2522">
+     <span class='ocr_line' id='line_1_3' title="bbox 329 2156 1308 2287; baseline -0.003 -19"><span class='ocrx_word' id='word_1_3' title='bbox 329 2157 427 2268; x_wconf 89' lang='lat' dir='ltr'><em>Pet</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 450 2159 526 2263; x_wconf 89' lang='lat' dir='ltr'><em>M.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 556 2157 622 2268; x_wconf 83' lang='lat' dir='ltr'><em>T..</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 640 2161 901 2265; x_wconf 82' lang='lat' dir='ltr'><em>Ciceronem</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 928 2161 1075 2265; x_wconf 68' lang='lat' dir='ltr'><em>latine</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1096 2156 1276 2272; x_wconf 82' lang='lat' dir='ltr'><em>reddite</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1286 2163 1308 2287; x_wconf 79' lang='grc'><em>,’</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 394 2328 1303 2522; baseline 0.004 -86"><span class='ocrx_word' id='word_1_10' title='bbox 394 2367 497 2436; x_wconf 83' lang='lat' dir='ltr'><em>cum</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 513 2329 854 2472; x_wconf 80' lang='lat' dir='ltr'><em>Supplementis</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 868 2328 1098 2522; x_wconf 37' lang='lat' dir='ltr'><em>Iffugonis</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1118 2334 1303 2463; x_wconf 87' lang='lat' dir='ltr'><em>Grotii,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 393 2503 1281 2653">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 393 2503 1281 2653">
+     <span class='ocr_line' id='line_1_5' title="bbox 393 2503 1281 2653; baseline 0.007 -44"><span class='ocrx_word' id='word_1_14' title='bbox 393 2503 436 2609; x_wconf 70' lang='lat' dir='ltr'><em>e</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 467 2504 846 2650; x_wconf 73' lang='lat' dir='ltr'><em>interpretatione</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 874 2506 1072 2653; x_wconf 80' lang='lat' dir='ltr'><em>gallica.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1279 2580 1281 2584; x_wconf 93' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1692 5059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1692 5059">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1692 5059; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1692 5059; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
